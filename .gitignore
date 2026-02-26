@@ -1,0 +1,22 @@
+/.idea/
+/.vscode/
+*/vendor/
+*/node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+# Debug files
+debug_db.php.txt
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
